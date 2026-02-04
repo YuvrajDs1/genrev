@@ -110,7 +110,7 @@ class ReviewerAgent:
             
         self.llm = ChatGroq(
             model="llama-3.3-70b-versatile",
-            temperature=0.3  # Lower temperature for more consistent evaluation
+            temperature=0.3 
         )
         
         self.parser = JsonOutputParser(pydantic_object=ReviewerOutput)
