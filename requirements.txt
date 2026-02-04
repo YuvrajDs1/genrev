@@ -1,6 +1,7 @@
 langchain
-langchain-groq
-langchain-core
+langchain_groq
+langchain_core
+langchain_community
 streamlit
 pydantic
 python-doten
