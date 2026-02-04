@@ -2,6 +2,10 @@
 
 An Agentic system with two AI agents (Generator and Reviewer) that creates and evaluates educational content with a Streamlit UI.
 
+## Deployed
+
+[text](https://yuvrajds1-genrev-app-svl66e.streamlit.app/)
+
 ## Architecture
 
 This project implements a **multi-agent system** using LangChain with the following components:

@@ -223,10 +223,8 @@ class AgentPipeline:
 
 
 if __name__ == "__main__":
-    # Initialize pipeline
     pipeline = AgentPipeline()
     
-    # Run the pipeline
     result = pipeline.run(
         grade=4,
         topic="Types of angles"
