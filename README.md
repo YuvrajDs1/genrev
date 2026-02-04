@@ -8,7 +8,7 @@ An Agentic system with two AI agents (Generator and Reviewer) that creates and e
 
 ## Clone
 
-git clone https://github.com/YuvrajDs1/genrev
+git clone https://github.com/YuvrajDs1/genrev.git
 
 ## Architecture
 
