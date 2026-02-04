@@ -4,7 +4,7 @@ An Agentic system with two AI agents (Generator and Reviewer) that creates and e
 
 ## Deployed
 
-[text](https://yuvrajds1-genrev-app-svl66e.streamlit.app/)
+[Genrev App](https://yuvrajds1-genrev-app-svl66e.streamlit.app/)
 
 ## Architecture
 
