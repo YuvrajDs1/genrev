@@ -79,11 +79,11 @@ generate_button = st.sidebar.button("🚀 Generate Content", type="primary", use
 st.sidebar.markdown("---")
 st.sidebar.markdown("### 💡 Example Topics")
 st.sidebar.markdown("""
-- Types of angles (Grade 4)
-- Photosynthesis (Grade 5)
 - The water cycle (Grade 3)
-- Fractions and decimals (Grade 6)
+- Types of angles (Grade 4)
 - Simple machines (Grade 4)
+- Photosynthesis (Grade 5)
+- Fractions and decimals (Grade 6)
 """)
 
 if not api_key:
