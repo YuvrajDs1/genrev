@@ -6,6 +6,10 @@ An Agentic system with two AI agents (Generator and Reviewer) that creates and e
 
 [Genrev App](https://yuvrajds1-genrev-app-svl66e.streamlit.app/)
 
+## Clone
+
+git clone https://github.com/YuvrajDs1/genrev
+
 ## Architecture
 
 This project implements a **multi-agent system** using LangChain with the following components:
@@ -15,14 +19,12 @@ This project implements a **multi-agent system** using LangChain with the follow
 - **Responsibility**: Generate age-appropriate educational content
 - **Input**: Grade level and topic
 - **Output**: Structured JSON with explanation and MCQs
-- **Implementation**: Uses LangChain's `ChatAnthropic`, `ChatPromptTemplate`, and `JsonOutputParser`
 
 ### 2. Reviewer Agent
 
 - **Responsibility**: Evaluate content quality
 - **Input**: Generated content + metadata
 - **Output**: Pass/fail status with specific feedback
-- **Implementation**: Uses LangChain chains with structured output parsing
 
 ### 3. Agent Pipeline
 
